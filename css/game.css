@@ -29,7 +29,6 @@
 }
 
 .front {
-    background-color: red;
     transform: rotateY(180deg);
 }
 
